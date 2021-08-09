@@ -26,5 +26,8 @@
     "mongoose": "^5.13.5",
     "nodemon": "^2.0.12",
     "svg-parser": "^2.0.4"
+  },
+  "engines": {
+    "node": "v12.16.1"
   }
 }
